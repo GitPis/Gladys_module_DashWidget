@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "gladys",
-    "mpi"
-  ],
   "author": "Matthieu Pisquet",
   "license": "CC-BY-NC-SA-3.0",
   "dependencies": {
