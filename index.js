@@ -1,4 +1,4 @@
-module.exports = function(sails) {
+module.exports = function Gladys_module_DashWidget(sails) {
 
 //    var install = require('./lib/install.js');
 //    var uninstall = require('./lib/uninstall.js');
