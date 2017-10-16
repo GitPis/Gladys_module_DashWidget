@@ -1,5 +1,5 @@
 {
-  "name": "Gladys_module_DashWidget",
+  "name": "gladys-dashWidgets",
   "version": "0.1.0",
   "description": "Gladys widgets by MPI",
   "main": "index.js",
